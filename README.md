@@ -2,6 +2,6 @@
 <head>
   p {
     color: pink;
-  Canadians Buy Their Milk In Bags
   }
+  Canadians Buy Their Milk In Bags
   </head>
